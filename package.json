@@ -1,6 +1,6 @@
 {
   "name": "react-table-material",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple and elegant design to react-table inspired by material design",
   "main": "Table.css",
   "dependencies": {

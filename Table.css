@@ -43,6 +43,10 @@
   border-bottom: 1px solid rgb(188, 188, 188);
 }
 
+.ReactTable .rt-tr-group:hover {
+  background-color: #eeeeee;
+}
+
 .ReactTable .rt-table {
   border-radius: 0 0 2px;
   padding: 14px 24px 24px;
@@ -87,4 +91,19 @@
 }
 .ReactTable .-pagination .-center {
   flex: 2;
+}
+
+.rt-th input {
+  max-width: 150px;
+  float: left;
+}
+
+.select-wrap.-pageSizeOptions select{
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.-pageJump input {
+  background-color:rgba(0, 0, 0, 0.5)
 }
