@@ -1,0 +1,22 @@
+{
+  "name": "react-table-material",
+  "version": "0.0.1",
+  "description": "Simple and elegant design to react-table inspired by material design",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "react-table": "^6.7.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/annamatveev/react-table-material"
+  },
+  "keywords": [
+    "react-table",
+    "material",
+    "design"
+  ],
+  "author": "Anna Matveev",
+  "license": "MIT"
+}
