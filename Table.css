@@ -1,0 +1,90 @@
+.ReactTable .rt-resizable-header-content {
+  font-weight: normal;
+  font-size: 12px;
+  padding-right: 24px;
+  height: 56px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: rgb(158, 158, 158);
+  position: relative;
+  background-color: inherit;
+  text-align: left;
+}
+
+.ReactTable .rt-tr {
+  padding-left: 24px;
+  padding-right: 24px;
+  height: 48px;
+  text-align: left;
+  font-size: 13px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  background-color: inherit;
+}
+
+.ReactTable .rt-td {
+  padding-left: 24px;
+  padding-right: 24px;
+  height: 48px;
+  text-align: left;
+  font-size: 13px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  background-color: inherit;
+}
+
+.ReactTable .rt-tbody .rt-td {
+  border-right: unset;
+}
+
+.ReactTable .rt-tr-group {
+  border-bottom: 1px solid rgb(188, 188, 188);
+}
+
+.ReactTable .rt-table {
+  border-radius: 0 0 2px;
+  padding: 14px 24px 24px;
+  margin: 0;
+}
+
+.ReactTable .rt-thead.-header {
+  box-shadow: unset
+}
+
+.ReactTable .rt-thead .rt-th, .ReactTable .rt-thead .rt-td {
+  border: unset;
+}
+
+.ReactTable {
+  border: unset
+}
+
+.ReactTable .-pagination {
+  box-shadow: unset;
+  border: unset;
+  padding-left: 24px;
+  padding-right: 24px;
+  height: 70px;
+  text-align: left;
+  font-size: 13px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  background-color: inherit;
+}
+
+.ReactTable .-pagination .-btn {
+  width: 45%;
+  height: 45%;
+  margin: 0 auto;
+}
+
+.ReactTable .-pagination div {
+  align-self: flex-start;
+  align-items: center;
+}
+.ReactTable .-pagination .-center {
+  flex: 2;
+}
