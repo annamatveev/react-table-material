@@ -1,4 +1,4 @@
-If you're looking for an exceleent grid implementation (with Material UI) I recommend using https://www.ag-grid.com/
+If you're looking for an excellent grid implementation (with Material UI) I recommend using https://www.ag-grid.com/
 
 # React Table Material
 
