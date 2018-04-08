@@ -1,3 +1,5 @@
+If you're looking for an exceleent grid implementation (with Material UI) I recommend using https://www.ag-grid.com/
+
 # React Table Material
 
 `react-table-material` is an **elegant** design to react-table inspired by material design
